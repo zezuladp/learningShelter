@@ -1,0 +1,12 @@
+-#This file is  app/views/users/index.html.haml
+#header
+%h1 The Learning Shelter 
+
+#content
+  .center.column
+    %p= "The Learning Shelter is creating a template for skill building, education and community engagement."
+    %p="The Learning Shelter exposes possibilities, mentors participants, teaches viable technical skills and empowers marginalized populations to achieve personal sustainability and create opportunities for their communities." 
+  .right.column
+     %h2 Sign up
+
+
